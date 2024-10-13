@@ -1,0 +1,21 @@
+.about-titre{
+    font-size: 1.5rem;
+    color: rgb(221, 184, 136);
+    margin-bottom: 2rem;
+    display: flex; 
+    align-items: center;
+}
+p{
+    font-size: 1.2rem;
+    color: rgb(161, 161, 167);
+}
+.about-separator {
+    border: none; 
+    height: .25rem; 
+    margin-left: .5rem; 
+    width: 30%;
+    background-image:linear-gradient(to right,rgb(224, 142, 127),#e21a17) ;
+}
+h2{
+    margin: 1rem;
+}

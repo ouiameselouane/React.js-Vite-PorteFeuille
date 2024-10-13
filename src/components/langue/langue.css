@@ -1,0 +1,53 @@
+
+.division{
+    border: .1rem solid grey;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    border-radius: .3rem;
+    padding: 1rem;
+    margin: 1rem;
+    
+
+    h4{
+        font-size: 1.2rem;
+        color: white;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+   
+}
+
+    #HTML {
+        color: #e44d26;
+        padding: 1rem;
+        font-size: 3rem;
+        
+    }
+    #CSS {
+       color: #3972B6;
+       padding: 1rem;
+       font-size: 3rem;
+       
+    }
+    #REACT {
+        color:#67ceed;
+        padding: 1rem;
+        font-size: 3rem;
+        
+     }
+     #JavaScript {
+        color:#f0db50;
+        padding: 1rem;
+        font-size: 3rem;
+        
+     }
+     #MySql{
+        color:#8bbed6;
+        padding: 1rem;
+        font-size: 3rem;
+     }
+    
+
+   
+

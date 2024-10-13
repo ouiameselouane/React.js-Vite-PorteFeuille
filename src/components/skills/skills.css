@@ -1,0 +1,8 @@
+.all{
+
+    background-color: #121212ad;
+    padding: 3rem;
+    border-radius:.8rem ;
+    width: max-content;
+    flex: 1 1 12.5rem; 
+}

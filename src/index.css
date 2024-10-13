@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #463355;
+  color: beige;
+  padding: 3rem;
+}
+.page{
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+}

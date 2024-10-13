@@ -1,0 +1,7 @@
+h1{
+    background-image: linear-gradient(rgb(224, 59, 59), yellow, green);
+    font-size: 3rem;
+    padding-bottom: 6rem;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
